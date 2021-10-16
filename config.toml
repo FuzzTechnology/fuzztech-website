@@ -53,10 +53,10 @@ name = "Contact"
 URL = "contact"
 weight = 4
 
-[[menu.main]]
-name = "Sample Page"
-URL = "sample-page"
-weight = 5
+#[[menu.main]]
+#name = "Sample Page"
+#URL = "infosec"
+#weight = 5
 
 # only desktop menu
 [[menu.desktop]]
@@ -73,7 +73,7 @@ author = "Nick Selby"
 
 # favicon
 [params.favicon]
-favicon = "images/favicon.ico"
+favicon = "images/favicon.png"
 
 # cookies
 [params.cookies]
@@ -82,7 +82,7 @@ expire_days = 2
 
 # banner
 [params.banner]
-heading = "Information Security and Physical Security Advisory Services"
+heading = "Information and Physical Security Advisory Services"
 image = "images/grassau.png"
 
 # blog
@@ -111,7 +111,7 @@ image = "images/2020-square-1.png"
 # footer
 [params.footer]
 title = "About Fuzz Technology, L.L.C."
-content = "Fuzz Technology provides businesses with a recovery information security organization to help organizations understand their security posture. From recovery Chief Information Security Officer to key personnel such as Chief of Staff, directors of detection and incident response, logging and visualization, recruitment, and other key roles, Fuzz helps your firm create and sustain security operations. This lets companies detect, defend against, and respond to cyber attacks, prepare for audits, due diligence, and evaluations, and to recover from cyber breach."
+content = "Fuzz Technology provides businesses with a recovery information security organization to help organizations understand their security posture. "
 address = "PO Box 18 <br> Ghent, NY 12075"
 hours = "Monday through Friday: 1000 – 1700 ET"
 copyright = "Copyright &copy; 2021 Fuzz Technology, L.L.C."
