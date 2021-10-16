@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
-title = "Twenty Twenty Hugo"
+baseURL = "https://fuzztechnology.com"
+title = "Fuzz Technology"
 theme = "twenty-twenty-hugo"
 languageName = "En"
 languageCode = "en-us"
@@ -9,11 +9,11 @@ paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
+#disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 # google analytics
-googleAnalytics = "" # example : UA-123-45
+#googleAnalytics = "" # example : UA-123-45
 
 
 
@@ -68,12 +68,12 @@ weight = 1
 #################### default parameters ################################
 [params]
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Fuzz Technology L.L.C. website"
+author = "Nick Selby"
 
 # favicon
 [params.favicon]
-favicon = "images/favicon.png"
+favicon = "images/favicon.ico"
 
 # cookies
 [params.cookies]
@@ -82,24 +82,24 @@ expire_days = 2
 
 # banner
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
-image = "images/2020-landscape-1-2.png"
+heading = "Information Security and Physical Security Advisory Services"
+image = "images/grassau.png"
 
 # blog
 [params.blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading = "Our team executes quickly on organizational and protective strategies, then helps you replace us with qualified, empowered executives and managers to carry the program forward."
 
 # call to action
 [params.call_to_action]
 enable = true
 title = "Contact us for more information."
-content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
+content = "You can send us an email or [book a convenient time](https://calendly.com/fuzztechnology) to discuss your challenges"
 button_label = "Contact Us"
 button_url = "contact"
 
 # gallery
 [params.gallery]
-enable = true
+enable = false
 
 [[params.gallery.gallery_item ]]
 image = "images/2020-square-2.png"
@@ -110,17 +110,17 @@ image = "images/2020-square-1.png"
 
 # footer
 [params.footer]
-title = "About This Site"
-content = "This may be a good place to introduce yourself and your site or include some credits."
-address = "123 Main Street <br> New York, NY 10001"
-hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
-copyright = "Copyright &copy; 2021 a hugo theme by [themefisher](https://themefisher.com/hugo-themes/) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
+title = "About Fuzz Technology, L.L.C."
+content = "Fuzz Technology provides businesses with a recovery information security organization to help organizations understand their security posture. From recovery Chief Information Security Officer to key personnel such as Chief of Staff, directors of detection and incident response, logging and visualization, recruitment, and other key roles, Fuzz helps your firm create and sustain security operations. This lets companies detect, defend against, and respond to cyber attacks, prepare for audits, due diligence, and evaluations, and to recover from cyber breach."
+address = "PO Box 18 <br> Ghent, NY 12075"
+hours = "Monday through Friday: 1000 – 1700 ET"
+copyright = "Copyright &copy; 2021 Fuzz Technology, L.L.C."
 
 ############################# social site ########################
 [params.social]
-yelp = "#"
-facebook = "#"
-twitter = "#"
-instagram = "#"
-email = "#"
-linkedin = "#"
+#yelp = "#"
+#facebook = "#"
+twitter = "https://twitter.com/fuzztech"
+#instagram = "#"
+email = "nselby [at] fuzztechnology [dot] com"
+linkedin = "https://www.linkedin.com/company/76477399"
