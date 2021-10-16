@@ -1,10 +1,13 @@
 ---
 title: "Contact"
-bg_image: "images/2020-landscape-2.png"
+#bg_image: "images/2020-landscape-2.png"
 # meta description
-description: "This is meta description"
+description: "Contact information"
 # save as draft
 draft: false
 ---
 
-This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.
+The best way to contact us is via email: 
+>hello [at] fuzztechnology [dot] com 
+
+You may also [book a time convenient convenient for you](https://calendly.com/fuzztechnology) to discuss your challenges.
