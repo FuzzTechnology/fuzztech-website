@@ -5021,8 +5021,8 @@ a.to-the-top>* {
 	}
 
 	body.template-full-width .alignfull:not(.has-background)>.wp-block-group__inner-container>p:not(.has-background-color) {
-		padding-left: 4rem;
-		padding-right: 4rem;
+		padding-left: 2rem;
+		padding-right: 2rem;
 	}
 
 	body.template-full-width [class*="wp-block"].alignfull [class*="__inner-container"]>.alignleft,
@@ -5118,7 +5118,7 @@ a.to-the-top>* {
 	}
 
 	.post-inner {
-		padding-top: 8rem;
+		padding-top: 1rem;
 	}
 
 	/* POST FOOTER */
