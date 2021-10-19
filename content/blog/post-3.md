@@ -6,9 +6,9 @@ image : "images/Excel.png"
 author : ["Admin"]
 # categories
 categories: ["Supply Chain Risk"]
-tags: ["3PR" , "Supply Chain", "CI/CD","Engineering Best Practices"]
+tags: ["Third Party Risk","Supply Chain","CI-CD","Engineering Best Practices"]
 # meta description
-description: "Third Party andSupply Chain Risk Management"
+description: "Third Party and Supply Chain Risk Management"
 # save as draft
 draft: false
 ---
