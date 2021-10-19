@@ -13,7 +13,7 @@ summaryLength = "10"
 # disable language
 disableLanguages = [] # desable language from here
 # google analytics
-#googleAnalytics = "" # example : UA-123-45
+googleAnalytics = "G-DHZ70CGPQQ" # example : UA-123-45
 
 
 
@@ -47,6 +47,7 @@ weight = 2
 name = "Blog"
 URL = "blog"
 weight = 3
+
 
 [[menu.main]]
 name = "Contact"
