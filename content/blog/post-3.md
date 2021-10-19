@@ -5,10 +5,10 @@ image : "images/Excel.png"
 # author
 author : ["Admin"]
 # categories
-categories: ["lifestyle"]
-tags: ["lifestyle" , "fashion"]
+categories: ["Supply Chain Risk"]
+tags: ["3PR" , "Supply Chain", "CI/CD","Engineering Best Practices"]
 # meta description
-description: "This is meta description"
+description: "Third Party andSupply Chain Risk Management"
 # save as draft
 draft: false
 ---
