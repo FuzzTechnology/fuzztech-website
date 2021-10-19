@@ -14,7 +14,7 @@ draft: false
 ---
 
 *Note: I spoke on this topic in September, 2021 at [44CON](https://44con.com) and you can 
-[watch the video here](https://www.youtube.com/watch?v=2MJQg52EdN0).*
+[watch the video here](https://44con.com/2021/10/01/watch-the-first-44con-lunchtime-talk-with-nick-selby/).*
 
 
 Third Party Risk (3PR) conversations have been center-tile on Buzzword Bingo cards for a few years now, but the way most firms approach 3PR hasn’t been effective at quantifying the risk a third-party provider actually brings to an organization. With several damaging software supply chain breaches in the course of a couple of months, executives are trying to understand how we got into this mess, and how we get out of it.
