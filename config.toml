@@ -137,7 +137,7 @@ image = "images/2020-square-1.png"
 # footer
 [params.footer]
 title = "About Fuzz Technology, L.L.C."
-content = "Fuzz Technology provides businesses with a recovery information security organization to help organizations understand their security posture. "
+content = "Fuzz Technology helps organizations understand and improve their security information and physical security posture and programs."
 address = "PO Box 18 <br> Ghent, NY 12075"
 hours = "Monday through Friday: 1000 – 1700 ET"
 copyright = "Copyright &copy; 2021 Fuzz Technology, L.L.C."
