@@ -1,7 +1,7 @@
 ---
 title: "Stop Rotating Your Passwords"
 date: 2018-03-14T15:40:24+06:00
-image : "images/okta_settings.png"
+image : "images/okta_settings_416.png"
 # author
 author : ["Nick Selby"]
 # categories
