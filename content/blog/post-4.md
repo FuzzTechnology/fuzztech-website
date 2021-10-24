@@ -3,9 +3,9 @@ title: "Tricking Your Team Isn't The Answer"
 date: 2021-10-16T15:40:24+06:00
 image : "images/terrace.png"
 # author
-author : ["Admin"]
+author : ["Nick Selby"]
 # categories
-categories: ["phishing","ransomware"]
+categories: ["phishing","ransomware","Security Awareness Training"]
 tags: ["phishing","ransomware"]
 # meta description
 description: "Phishing is the most common vector for ransomware. Phishing your staff is not the solution to phishing."

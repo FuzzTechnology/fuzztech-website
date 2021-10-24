@@ -3,7 +3,7 @@ title: "The Anti-Checklist Manifesto: Spreadsheets and 3PR"
 date: 2021-10-13T15:40:24+06:00
 image : "images/Excel.png"
 # author
-author : ["Admin"]
+author : ["Nick Selby"]
 # categories
 categories: ["Supply Chain Risk"]
 tags: ["Third Party Risk","Supply Chain","CI-CD","Engineering Best Practices"]
