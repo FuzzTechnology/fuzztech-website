@@ -5,7 +5,7 @@ image : "images/Excel.png"
 # author
 author : ["Nick Selby"]
 # categories
-categories: ["Supply Chain Risk"]
+categories: ["Supply Chain Risk","Best Practices"]
 tags: ["Third Party Risk","Supply Chain","CI-CD","Engineering Best Practices"]
 # meta description
 description: "Third Party and Supply Chain Risk Management"
