@@ -6,7 +6,7 @@ description: "Author Page: Nick Selby"
 draft: false
 ---
 
-<img align="right" width="100" src="/images/nick-selby_intel.jpeg">Nick Selby is founder of Fuzz Technology. 
+<img align="right" width="100" src="/images/nick-selby_intel.jpeg">Nick Selby is founder of Fuzz Technology. He is co-host, with [Chris Swan](http://blog.thestateofme.com/), of the [Tech Debt Burndown podcast](https://techdebtburndown.com).
 
 Nick's speciality is in accelerating the development, for firms in targeted industries, of information security and/or physical security programs: 
 
