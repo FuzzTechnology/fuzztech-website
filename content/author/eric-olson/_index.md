@@ -6,7 +6,7 @@ description: "Author Page: Eric Olson"
 draft: false
 ---
 
-<img align="right" width="100" src="/images/eric.jpeg"> Erico Olson is founder of Polestar Analytics, a boutique consulting firm advising security product vendors, managed service providers and their enterprise clients on threat intelligence, business analysis and product strategy. 
+<img align="right" width="100" src="/images/eric.jpeg"> Eric Olson is founder of Polestar Analytics, a boutique consulting firm advising security product vendors, managed service providers and their enterprise clients on threat intelligence, business analysis and product strategy. 
 
 --
 
