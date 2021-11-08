@@ -7,4 +7,5 @@ description: "Authors, Fuzz Technology Blog"
 draft: false
 ---
 
-[Nick Selby](nselby/)
+[Nick Selby](nselby)
+[Eric Olson](eric)
