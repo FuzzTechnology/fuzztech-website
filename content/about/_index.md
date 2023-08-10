@@ -6,7 +6,7 @@ description: "General description of Fuzz Technology services"
 draft: false
 ---
 
-Fuzz Technology provides businesses with a drop-in [information security organization](/infosecprog) to help clients anticipate and support rapid growth. Our team executes quickly on development and implementation of organizational and protective strategies, then helps you replace us with qualified, empowered executives and managers to carry the program forward.
+Fuzz Technology, a subsidiary of [epsd, inc.](https://epsd.io), provides businesses with a drop-in [information security organization](/infosecprog) to help clients anticipate and support rapid growth. Our team executes quickly on development and implementation of organizational and protective strategies, then helps you replace us with qualified, empowered executives and managers to carry the program forward.
 
 Fuzz provides [information security assessments](/assessments) for cloud-native companies, to highlight (through a prism of engineering best practices) areas to be improved within a security program. 
 

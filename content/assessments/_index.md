@@ -17,4 +17,4 @@ schemas and structures.
 
 Then, through a series of automated and manual tests, interviews, and architecture and system reviews, we help your organization understand its information security posture.
 
-You can send us an [email](/contact) or [book a convenient time](https://calendly.com/fuzztechnology) to discuss your challenges
+You can send us an [email](/contact) or [book a convenient time](https://calendly.com/fuzztechnology) to discuss your challenges.
